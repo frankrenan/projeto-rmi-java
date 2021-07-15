@@ -13,4 +13,6 @@ public interface Criptografia extends java.rmi.Remote{
 	
 	public String criptografar(String mensagem) throws java.rmi.RemoteException;
 
+	
+
 }
